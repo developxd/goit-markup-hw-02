@@ -141,7 +141,7 @@
  }
 
 
- /* Container cu carduri despre membrii echipei */
+ /* Container carduri cu membri echipei */
 
  .container__1 {
      border-radius: 5px;
@@ -238,7 +238,6 @@
      margin-left: 120px;
      margin-right: 80px;
      line-height: 2;
-
  }
 
  .container__portofolio {
@@ -255,3 +254,7 @@
      font-size: 16px;
      color: var(--gray);
  }
+.footer__address a:hover {
+     color: #2196F3;
+ }
+ 
